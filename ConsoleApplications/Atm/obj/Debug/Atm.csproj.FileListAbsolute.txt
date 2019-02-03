@@ -1,0 +1,7 @@
+C:\Users\section1\Desktop\Wissen\Atm\bin\Debug\Atm.exe.config
+C:\Users\section1\Desktop\Wissen\Atm\bin\Debug\Atm.exe
+C:\Users\section1\Desktop\Wissen\Atm\bin\Debug\Atm.pdb
+C:\Users\section1\Desktop\Wissen\Atm\obj\Debug\Atm.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\Atm\obj\Debug\Atm.exe
+C:\Users\section1\Desktop\Wissen\Atm\obj\Debug\Atm.pdb
+C:\Users\section1\Desktop\Wissen\Atm\obj\Debug\Atm.csprojAssemblyReference.cache

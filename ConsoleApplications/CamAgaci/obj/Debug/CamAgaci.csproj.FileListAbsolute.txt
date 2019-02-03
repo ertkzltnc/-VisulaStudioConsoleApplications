@@ -1,0 +1,7 @@
+C:\Users\section1\Desktop\Wissen\CamAgaci\bin\Debug\CamAgaci.exe.config
+C:\Users\section1\Desktop\Wissen\CamAgaci\bin\Debug\CamAgaci.exe
+C:\Users\section1\Desktop\Wissen\CamAgaci\bin\Debug\CamAgaci.pdb
+C:\Users\section1\Desktop\Wissen\CamAgaci\obj\Debug\CamAgaci.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\CamAgaci\obj\Debug\CamAgaci.exe
+C:\Users\section1\Desktop\Wissen\CamAgaci\obj\Debug\CamAgaci.pdb
+C:\Users\section1\Desktop\Wissen\CamAgaci\obj\Debug\CamAgaci.csprojAssemblyReference.cache

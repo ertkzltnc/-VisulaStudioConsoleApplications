@@ -1,0 +1,7 @@
+C:\Users\section1\Desktop\Wissen\DikDörtgen\bin\Debug\DikDörtgen.exe.config
+C:\Users\section1\Desktop\Wissen\DikDörtgen\bin\Debug\DikDörtgen.exe
+C:\Users\section1\Desktop\Wissen\DikDörtgen\bin\Debug\DikDörtgen.pdb
+C:\Users\section1\Desktop\Wissen\DikDörtgen\obj\Debug\DikDörtgen.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\DikDörtgen\obj\Debug\DikDörtgen.exe
+C:\Users\section1\Desktop\Wissen\DikDörtgen\obj\Debug\DikDörtgen.pdb
+C:\Users\section1\Desktop\Wissen\DikDörtgen\obj\Debug\DikDörtgen.csprojAssemblyReference.cache

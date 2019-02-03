@@ -1,0 +1,7 @@
+C:\Users\section1\Desktop\Wissen\AsalMı\obj\Debug\Denemeler.csprojAssemblyReference.cache
+C:\Users\section1\Desktop\Wissen\AsalMı\obj\Debug\Denemeler.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\AsalMı\bin\Debug\AsalMı.exe.config
+C:\Users\section1\Desktop\Wissen\AsalMı\bin\Debug\AsalMı.exe
+C:\Users\section1\Desktop\Wissen\AsalMı\bin\Debug\AsalMı.pdb
+C:\Users\section1\Desktop\Wissen\AsalMı\obj\Debug\AsalMı.exe
+C:\Users\section1\Desktop\Wissen\AsalMı\obj\Debug\AsalMı.pdb

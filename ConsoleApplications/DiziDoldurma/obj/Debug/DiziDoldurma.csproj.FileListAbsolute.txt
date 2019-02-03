@@ -1,0 +1,7 @@
+C:\Users\section1\Desktop\Wissen\DiziDoldurma\bin\Debug\DiziDoldurma.exe.config
+C:\Users\section1\Desktop\Wissen\DiziDoldurma\bin\Debug\DiziDoldurma.exe
+C:\Users\section1\Desktop\Wissen\DiziDoldurma\bin\Debug\DiziDoldurma.pdb
+C:\Users\section1\Desktop\Wissen\DiziDoldurma\obj\Debug\DiziDoldurma.csproj.CoreCompileInputs.cache
+C:\Users\section1\Desktop\Wissen\DiziDoldurma\obj\Debug\DiziDoldurma.exe
+C:\Users\section1\Desktop\Wissen\DiziDoldurma\obj\Debug\DiziDoldurma.pdb
+C:\Users\section1\Desktop\Wissen\DiziDoldurma\obj\Debug\DiziDoldurma.csprojAssemblyReference.cache
